@@ -68,12 +68,9 @@
 						</exclude>
 					</excludes>
 				</configuration>
-
-
-
 			</plugin>
-
 		</plugins>
+		<finalName>serv</finalName>
 	</build>
 
 
